@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #1a1f36;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: Helvetica, sans-serif;
+  }
+  body {
+      min-height: 100vh; 
+      background-color: aliceblue;
+  }
+  a {
+    color: #654caa;
+    text-decoration: unset;
+  }
+  label {
+    margin-bottom: 10px;
+  }
+
+  .titleLink{
+    box-sizing: border-box;
+    padding-top: 48px;
+    padding-bottom: 24px;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .checkboxStaySigned{
+    padding-bottom: 24px;
+    display: flex;
+  }
+  
+  .formbg {
+      margin: 0px auto;
+      width: 100%;
+      padding: 48px;
+      max-width: 448px;
+      background: #fff;
+      border-radius: 4px;
+      box-shadow: rgba(66, 60, 87, 0.12) 0px 7px 14px 0px, rgba(0, 0, 0, 0.12) 0px 3px 6px 0px;
+  }
+
+  .reset-pass a,label {
+      font-size: 14px;
+      font-weight: 600;
+      display: block;
+  }
+  .reset-pass > a {
+      text-align: right;
+      margin-bottom: 10px;
+  }
+
+  .grid {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      align-items: center;
+  }
+  
+  .field input {
+      
+      font-size: 16px;
+      line-height: 28px;
+      padding: 8px 16px;
+      width: 100%;
+      min-height: 44px;
+      border: unset;
+      border-radius: 4px;
+      outline-color: #654caa;
+      background-color: #fff;
+      margin-bottom: 24px;
+      box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(60, 66, 87, 0.16) 0px 0px 0px 1px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+  }
+  
+  input[type="submit"] {
+      background-color: #654caa;
+      box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, 
+                  #654caa 0px 0px 0px 1px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                  rgba(60, 66, 87, 0.08) 0px 2px 5px 0px;
+      color: #fff;
+      font-weight: 600;
+      cursor: pointer;
+  }
+  input[type="submit"]:hover {
+    background-color: #3b2c64;
+    transition: all 0.2s ease-in;
+  }
