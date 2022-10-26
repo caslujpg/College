@@ -1,9 +1,9 @@
 <h1 align="center">💻Desenvolvimento Front-end I💻</h1>
 
 <h2 id="about">📜A Materia📜</h2>
-<h3>Carga Horária:</h3> 60h <br/>
-<h3>Período:</h3> 1° <br/>
-<h3>Sobre:</h3> Materia para compreender e aplicar as estruturas básicas das linguagens client-side HTML, CSS e
+<span>Carga Horária:</span> 60h <br/>
+<span>Período:</span> 1° <br/>
+<span>Sobre:</span> Materia para compreender e aplicar as estruturas básicas das linguagens client-side HTML, CSS e
 Javascript enfatizando a implementação de tecnologias inclusiva/assistivas durante todo andamento da disciplina.
 
 <br />
