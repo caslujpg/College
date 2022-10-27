@@ -1,6 +1,7 @@
 <h1 align="center">📌LinkWay📌💻</h1>
 
 <h4>Sobre:</h4> Atividade de criar um site com links de navegação e também uma opção diferente para impressão sem css estilizado (está na aba do currículo).
+Aproveitei para integrar algumas outras funções como modo escuro e claro e o curriculo em html.
 
 <br/>
 
