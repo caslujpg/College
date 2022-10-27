@@ -1,4 +1,4 @@
-<h1 align="center">📌Curriculo HTML📌💻</h1>
+<h1 align="center">🖋Curriculo HTML🖋</h1>
 
 <h4>Sobre:</h4> Atividade de criar um curriculo em HTML com CSS separado e links para acessar os certificados caso tenha.
 
