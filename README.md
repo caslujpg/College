@@ -1,7 +1,7 @@
 <h1 align="center">📚Faculdade Sistemas para Internet📚</h1>
 
 <h2 id="about">💻Sobre💻</h2>
-Repositório contendo tudo que fiz e estou fazendo durante meu curso de Sistemas para Internet, subdividido em pastas referêntes a cada materia.
+Repositório contendo tudo que fiz e estou fazendo que seja relacionado a código durante meu curso de Sistemas para Internet, subdividido em pastas referêntes a cada materia.
 Previsão de Conclusão - 2025
 
 <h4>Duração</h4> 
