@@ -7,8 +7,7 @@ Aproveitei para integrar algumas outras funções como modo escuro e claro e o c
 
 <h4>Aplicação:</h4>
 
-![linkway aplicação](https://user-images.githubusercontent.com/61885918/198203332-0868c06e-1994-48fb-b0b1-9123046b4cac.jpg)
-
+![foto escura](https://user-images.githubusercontent.com/61885918/198203814-c044e3b4-0912-4aa8-ab66-5d1c74de0c39.gif)
 
 <br />
 <h2>🧔🏻Autor🧔🏻</h2>
