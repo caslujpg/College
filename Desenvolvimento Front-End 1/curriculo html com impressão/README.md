@@ -10,8 +10,9 @@
 
 ![image](https://user-images.githubusercontent.com/61885918/198205415-1824f680-0974-4b9f-b7d3-19f07c1c6985.png)
 
-<h5>Forma de Impressão sem CSS:</H5>
+<h5>Forma de Impressão sem CSS:</h5>
 
+![image](https://user-images.githubusercontent.com/61885918/198206730-de4905fa-2ac8-490d-9e39-6156abf679e1.png)
 
 <br />
 <h2>🧔🏻Autor🧔🏻</h2>
