@@ -1,6 +1,6 @@
 <h1 align="center">📑CasluForms📑💻</h1>
 
-<h4>Sobre:</h4> Atividade para criar um formulário simples, aproveitei para fazer um css separado e um favicon para a mesma.
+<h4>Sobre:</h4> Atividade para criar um formulário simples, aproveitei para fazer uma verificação se o e-mail era válido, css separado e um favicon para a mesma.
 
 <br/>
 
