@@ -1,4 +1,4 @@
-<h1 align="center">💻QAcademico💻</h1>
+<h1 align="center">📩QAcademico📩</h1>
 
 <h4>Sobre:</h4> Atividade em reproduzir uma página simplificada com HTML e CSS in line.
 Abaixo pode ver a imagem que é proposta e o resultado.
