@@ -11,7 +11,7 @@ int main() {
 	printf("O resultado da soma eh: %i\n", soma);
 	
 	int subtracao = num2 - num1;
-	printf("O resultado da subtração eh: %i\n", subtracao);
+	printf("O resultado da subtraÃ§Ã£o eh: %i\n", subtracao);
 	
 	int multi = num1 * num2;
 	printf("O resultado da multiplicacao eh: %i\n", multi);
