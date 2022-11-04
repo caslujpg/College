@@ -33,10 +33,10 @@ int main(void)
   	
 	medImp = addImp / countImp;
 	
-	printf("Existem %d números pares entre x e y.\n", addPar);
-	printf("A média dos números ímpares entre x e y é %.2f.\n", medImp);
-	printf("A soma de todos os números entre x e y é %d.", add);
-	printf("\n\nAplicação finalizada.\n");
+	printf("Existem %d nÃºmeros pares entre x e y.\n", addPar);
+	printf("A mÃ©dia dos nÃºmeros Ã­mpares entre x e y Ã© %.2f.\n", medImp);
+	printf("A soma de todos os nÃºmeros entre x e y Ã© %d.", add);
+	printf("\n\nAplicaÃ§Ã£o finalizada.\n");
     printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");
 	return 0;
 }
