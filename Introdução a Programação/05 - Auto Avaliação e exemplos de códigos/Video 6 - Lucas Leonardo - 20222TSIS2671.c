@@ -4,14 +4,14 @@
 
 int main(int argc, char *argv[]) {
 	
-	//a linha abaixo configura o idioma para português
+	//a linha abaixo configura o idioma para portuguÃªs
 	setlocale(LC_ALL, "Portuguese");
 	//a linha abaixo muda a cor do texto
 	system("color 5E");
-	printf("Olá mundo\n");
+	printf("OlÃ¡ mundo\n");
 	system("pause");
 	system("cls");
-	printf("Professor José de Assis");
+	printf("Professor JosÃ© de Assis");
 	system("pause");
 	return 0;
 }
