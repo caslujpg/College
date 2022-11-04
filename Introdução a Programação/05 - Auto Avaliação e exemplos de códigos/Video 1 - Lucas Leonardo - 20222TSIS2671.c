@@ -16,9 +16,9 @@ int main() {
 //	char %c
 //	string %s
 
-//	%u módulo de um número
-//	%p endereço de memória
-//	%e OU %E para imprimir números com notação científica
+//	%u mÃ³dulo de um nÃºmero
+//	%p endereÃ§o de memÃ³ria
+//	%e OU %E para imprimir nÃºmeros com notaÃ§Ã£o cientÃ­fica
 //	%% para imprimir somente 1 sinal de porcentagem
 
 	int x = 10;
