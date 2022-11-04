@@ -16,15 +16,15 @@ int main() {
 		printf("FALSE\n");
 	}
 	
-//	! é um sinal de negação, igual a expressão NOT
+//	! Ã© um sinal de negaÃ§Ã£o, igual a expressÃ£o NOT
 	
 /*
 	1) positivo -> 1
 	2) negativo -> 0
 */
 	
-//	== comparação positiva -> x == y
-//	!= comparação negativa -> x != y
+//	== comparaÃ§Ã£o positiva -> x == y
+//	!= comparaÃ§Ã£o negativa -> x != y
 	
 	return 0;
 }
