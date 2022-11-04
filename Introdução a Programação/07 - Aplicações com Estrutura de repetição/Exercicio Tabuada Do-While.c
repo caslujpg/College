@@ -11,7 +11,7 @@ int main(void)
 	do
 	{
 		printf("\tTabuada \"do-while\"\n\n");
-		printf("Digite qual número quer ver a tabuada: ");
+		printf("Digite qual nÃºmero quer ver a tabuada: ");
 		scanf("%d", &num);
 		system("cls");
 		for(i=0; i<=30; i++)
@@ -20,13 +20,13 @@ int main(void)
 		}
 		system("pause");
 		system("cls");
-		printf("\n\nDigite a opção desejada -\n");
+		printf("\n\nDigite a opÃ§Ã£o desejada -\n");
 		printf("\n1 - Novo valor para calcular;");
 		printf("\n2 - Sair.\n\n");
 		scanf("%d", &answer);
 	}while(answer != 2);
 		system("cls");
-		printf("\nAplicação finalizada.\n");
+		printf("\nAplicaÃ§Ã£o finalizada.\n");
     	printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");	
 		return 0;
 }
