@@ -11,7 +11,7 @@ int main(void)
     printf("\n==============================================\n");
     printf("============ CONTROLE DE ESTOQUE =============\n");
     printf("==============================================\n");
-    printf("\nSELECIONE UMA OPCÃO:\n");
+    printf("\nSELECIONE UMA OPCÃƒO:\n");
     printf("1 - CADASTRAR PRODUTO\n");
     printf("2 - PESQUISAR PRODUTO\n");
     printf("3 - ALTERAR PRODUTO\n");
@@ -22,42 +22,42 @@ int main(void)
     switch (operation) {
     case 0:
       	system("cls");
-      	printf("\nAplicação finalizada.\n");
+      	printf("\nAplicaÃ§Ã£o finalizada.\n");
     	printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");
     	leave = 1;
     	break;
 
     case 1:
-    	printf("\nVocê selecionou a opção %d - CADASTRAR PRODUTO\n", operation);
+    	printf("\nVocÃª selecionou a opÃ§Ã£o %d - CADASTRAR PRODUTO\n", operation);
     	system("pause");
     	break;
 
     case 2:
-    	printf("\nVocê selecionou a opção %d - PESQUISAR PRODUTO\n", operation);
+    	printf("\nVocÃª selecionou a opÃ§Ã£o %d - PESQUISAR PRODUTO\n", operation);
     	system("pause");
     	break;
 
     case 3:
-    	printf("\nVocê selecionou a opção %d - ALTERAR PRODUTO\n", operation);
+    	printf("\nVocÃª selecionou a opÃ§Ã£o %d - ALTERAR PRODUTO\n", operation);
     	system("pause");
     	break;
 
     case 4:
-    	printf("\nVocê selecionou a opção %d - REMOVER PRODUTO\n", operation);
+    	printf("\nVocÃª selecionou a opÃ§Ã£o %d - REMOVER PRODUTO\n", operation);
     	system("pause");
     	break;
 
     case 5:
-    	printf("\nVocê selecionou a opção %d - SAIR\n", operation);
+    	printf("\nVocÃª selecionou a opÃ§Ã£o %d - SAIR\n", operation);
       	system("pause");
       	system("cls");
-      	printf("\nAplicação finalizada.\n");
+      	printf("\nAplicaÃ§Ã£o finalizada.\n");
     	printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");	
       	leave = 1;
       	break;
       
     default:
-      printf("\nVocê selecionou a opção %d, pressione ENTER para continuar...\n", operation);
+      printf("\nVocÃª selecionou a opÃ§Ã£o %d, pressione ENTER para continuar...\n", operation);
       system("pause");
       break;
     }
