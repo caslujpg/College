@@ -14,37 +14,37 @@ int main(void)
 
     setlocale(LC_ALL, "Portuguese");
 
-    printf("Aperte 'Enter' para descobrir o porque está errado fazer \"if(num=10)\" e o que irá acontecer ou qualquer outra tecla para sair.\n");
+    printf("Aperte 'Enter' para descobrir o porque estÃ¡ errado fazer \"if(num=10)\" e o que irÃ¡ acontecer ou qualquer outra tecla para sair.\n");
     getchar();
     system("cls");
-    printf("A expressão \"if(num=10)\" está errada pois o compilador irá associar o valor de 10 a variável 'num', a forma correta seria 'if(num == 10)' ai sim seria um operador de comparação, conforme o exemplo abaixo:\n");
-    printf("\nint num;\n printf(\"Digite um número: \");\n scanf(\"%%d\", &num);\n if(num>10) printf(\"\\nO número é maior que 10.\\n\");\n if(num==10) printf(\"\\nO número é igual a 10.\\n\");\n if(num<10) printf(\"\\nO número é menor que 10.\\n\");\n return (0);\n\n");
+    printf("A expressÃ£o \"if(num=10)\" estÃ¡ errada pois o compilador irÃ¡ associar o valor de 10 a variÃ¡vel 'num', a forma correta seria 'if(num == 10)' ai sim seria um operador de comparaÃ§Ã£o, conforme o exemplo abaixo:\n");
+    printf("\nint num;\n printf(\"Digite um nÃºmero: \");\n scanf(\"%%d\", &num);\n if(num>10) printf(\"\\nO nÃºmero Ã© maior que 10.\\n\");\n if(num==10) printf(\"\\nO nÃºmero Ã© igual a 10.\\n\");\n if(num<10) printf(\"\\nO nÃºmero Ã© menor que 10.\\n\");\n return (0);\n\n");
     printf("Deseja ver o exemplo acima em funcionamento? (S/N).\n");
     scanf("%c", &c);
     system("cls");
     if(c == 's' || c == 'S')
     {
-        printf ("Digite um número: ");
+        printf ("Digite um nÃºmero: ");
         scanf ("%d",&num);
         if(num>10)
         {
-            printf("\nO número é maior que 10.\n");
+            printf("\nO nÃºmero Ã© maior que 10.\n");
             bold(1); printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");
         }
         if(num==10)
         {
-            printf ("\nO número é igual a 10.\n");
+            printf ("\nO nÃºmero Ã© igual a 10.\n");
             bold(1); printf("\n\bDesenvolvido por: https://github.com/caslujpg\n\n");
         }
         if(num<10)
         {
-            printf("\nO número é menor que 10.\n"); bold(1);
+            printf("\nO nÃºmero Ã© menor que 10.\n"); bold(1);
             printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");
         }
     } 
 	else 
 	{
-        printf("\nAplicação finalizada.\n");
+        printf("\nAplicaÃ§Ã£o finalizada.\n");
         bold(1); printf("\nDesenvolvido por: https://github.com/caslujpg\n\n");
     }
 
