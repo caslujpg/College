@@ -15,9 +15,9 @@ int main(void)
     {
     	do
     	{
-    		printf("Digite a %d∞ nota: ", i+1);
+    		printf("Digite a %d¬∞ nota: ", i+1);
     		scanf("%f", &notas[i]);
-    		if(notas[i] < 0 || notas[i] > 10) printf("Valor digitado inv·lido! Digite um valor de 0 a 10 para continuar.\n");
+    		if(notas[i] < 0 || notas[i] > 10) printf("Valor digitado inv√°lido! Digite um valor de 0 a 10 para continuar.\n");
 		}
 		while(notas[i] < 0 || notas[i] > 10);
     }
@@ -31,15 +31,15 @@ int main(void)
 	
 	media = somaNotas / 5;
 	
-	if(media < 3) strcpy(final, "est· reprovado");
-	else if(media >= 7) strcpy(final, "est· aprovado.");
+	if(media < 3) strcpy(final, "est√° reprovado");
+	else if(media >= 7) strcpy(final, "est√° aprovado.");
 	else strcpy(final,"ficou de prova final.");
 	
 	getchar();
 	system("cls");
 	printf("\nMaior nota: %0.2f", maior);
 	printf("\nMenor nota: %0.2f", menor);
-	printf("\nMÈdia semestral: %0.2f", media);
+	printf("\nM√©dia semestral: %0.2f", media);
 	printf("\nO Aluno %s", final);
     
     return 0;
