@@ -8,11 +8,3 @@ Aproveitei para integrar algumas outras funções como modo escuro e claro e o c
 <h4>Aplicação:</h4>
 
 ![foto escura (1)](https://user-images.githubusercontent.com/61885918/198203963-96eb3d1d-5d28-4752-a2c0-b3509fa642c3.gif)
-
-<br />
-<h2>🧔🏻Autor🧔🏻</h2>
-
-<h3>Lucas Leonardo</h3>
-
-[Linkedin](https://www.linkedin.com/in/caslujpg/)</br>
-[Email](caslujpg@gmail.com)
