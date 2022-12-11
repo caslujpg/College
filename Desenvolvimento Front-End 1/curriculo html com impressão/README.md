@@ -13,11 +13,3 @@
 <h5>Forma de Impressão sem CSS:</h5>
 
 ![image](https://user-images.githubusercontent.com/61885918/198206730-de4905fa-2ac8-490d-9e39-6156abf679e1.png)
-
-<br />
-<h2>🧔🏻Autor🧔🏻</h2>
-
-<h3>Lucas Leonardo</h3>
-
-[Linkedin](https://www.linkedin.com/in/caslujpg/)</br>
-[Email](caslujpg@gmail.com)
