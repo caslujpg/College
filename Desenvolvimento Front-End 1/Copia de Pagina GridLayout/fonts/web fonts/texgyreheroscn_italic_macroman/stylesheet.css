@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'tex_gyre_heros_cnitalic';
+    src: url('texgyreheroscn-italic-webfont.eot');
+    src: url('texgyreheroscn-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyreheroscn-italic-webfont.woff2') format('woff2'),
+         url('texgyreheroscn-italic-webfont.woff') format('woff'),
+         url('texgyreheroscn-italic-webfont.ttf') format('truetype'),
+         url('texgyreheroscn-italic-webfont.svg#tex_gyre_heros_cnitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

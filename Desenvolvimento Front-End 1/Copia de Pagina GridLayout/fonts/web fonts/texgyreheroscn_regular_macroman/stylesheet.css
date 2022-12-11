@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'tex_gyre_heros_cnregular';
+    src: url('texgyreheroscn-regular-webfont.eot');
+    src: url('texgyreheroscn-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyreheroscn-regular-webfont.woff2') format('woff2'),
+         url('texgyreheroscn-regular-webfont.woff') format('woff'),
+         url('texgyreheroscn-regular-webfont.ttf') format('truetype'),
+         url('texgyreheroscn-regular-webfont.svg#tex_gyre_heros_cnregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
