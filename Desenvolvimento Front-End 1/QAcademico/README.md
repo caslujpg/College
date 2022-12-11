@@ -10,11 +10,3 @@ Abaixo pode ver a imagem que é proposta e o resultado.
 <h5>Resultado:</h5>
 
 ![image](https://user-images.githubusercontent.com/61885918/198204491-d60de6db-bb60-48a9-9133-a678cf29deb2.png)
-
-<br />
-<h2 id="owner">🧔🏻Autor🧔🏻</h2>
-
-<h3>Lucas Leonardo</h3>
-
-[Linkedin](https://www.linkedin.com/in/caslujpg/)</br>
-[Email](caslujpg@gmail.com)
